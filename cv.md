@@ -65,6 +65,7 @@ function multiply(a, b){
 - Russian (Native)
 - English (C1)
 - Polish (A2)
+- German (A2)
 
 ## Interests
 
