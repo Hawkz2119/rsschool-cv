@@ -66,7 +66,8 @@ function multiply(a, b){
 - English (C1)
 - Polish (A2)
 - German (A2)
-
+- Turkish (A2)
+  
 ## Interests
 
 - Jogging
